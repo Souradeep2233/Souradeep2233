@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Machine Learning & Deep learning with Tensorflow and pytorch**
 
-- 💬 Ask me about *Medical Imaging, Computer Vision and Image processing **
+- 💬 Ask me about **Medical Imaging, Computer Vision and Image processing **
 
 - 📫 How to reach me **souradeep2233@gmail.com**
 
