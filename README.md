@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=souradeep2233&label=Profile%20views&color=0e75b6&style=flat" alt="souradeep2233" /> </p>
 
-- 🌱 I’m currently learning ** Machine Learning & Deep learning with Tensorflow and pytorch **
+- 🌱 I’m currently learning **Machine Learning & Deep learning with Tensorflow and pytorch**
 
 - 💬 Ask me about ** Medical Imaging, Computer Vision and Image processing **
 
