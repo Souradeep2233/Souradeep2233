@@ -1,30 +1,99 @@
-[![MasterHead](https://images.squarespace-cdn.com/content/v1/5feb53185d3dab691b47361b/1609930650139-9NRI63XUJ29Y7E9LEA9G/12eca-machine-learning.gif)]
+<!-- Gradient Animated Header -->
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=4000&pause=1000&color=7A3CE7&center=true&vCenter=true&width=800&lines=Hi+%F0%9F%91%8B%2C+I'm+Souradeep+Dutta;Machine+Learning+%26+Computer+Vision+Engineer;From+India+%F0%9F%87%AE%F0%9F%87%B3" alt="Typing SVG" />
+</div>
 
-<h3 align="center">A passionate Machine Learning developer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<!-- Animated Divider -->
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" alt="divider" width="100%"/>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=souradeep2233&label=Profile%20views&color=0e75b6&style=flat" alt="souradeep2233" /> </p>
+<!-- About Section with Glowing Effect -->
+<div align="center">
+  <picture>
+    <img src="https://images.squarespace-cdn.com/content/v1/5feb53185d3dab691b47361b/1609930650139-9NRI63XUJ29Y7E9LEA9G/12eca-machine-learning.gif" 
+     alt="Header GIF" 
+     width="400" 
+     align="right" 
+     style="border-radius: 20px; box-shadow: 0 0 20px #7a3ce766;" />
 
-- 🌱 I’m currently learning **Machine Learning & Deep learning with Tensorflow and pytorch(preferred)**
+  </picture>
 
-- 💬 Ask me about **Medical Imaging, Computer Vision and Image processing**
+  ### 🔥 Current Focus
+  - Building **Real-Time Violence Detection** using Swin3D Transformer
+  - Mastering **Advanced Deep Learning** (Transformers, CNNs, GANs)
+  - Exploring **Medical Imaging & AI Diagnostics**
+  
+  ### 📬 Get in Touch
+  - Email: **souradeep2233@gmail.com**
+  </div>
+  <div align="left">
+  - Portfolio: **[Coming Soon]**
+  - Resume: **[LinkedIn Profile](https://www.linkedin.com/in/souradeep-dutta-6535a21bb/)**
+</div>
 
-- 📫 How to reach me **souradeep2233@gmail.com**
+<br/>
 
-- 📄 Know about my experiences https://www.linkedin.com/in/souradeep-dutta-6535a21bb/
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/souradeep dutta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="souradeep dutta" height="30" width="40" /></a>
-<a href="https://kaggle.com/souradeep dutta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="souradeep dutta" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/souradeep2233" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="souradeep2233" height="30" width="40" /></a>
-  <a href="https://www.leetcode.com/souradeep2233" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="souradeep2233" height="30" width="40" /></a>
-</p>
+<!-- Tech Stack Section with Animated Icons -->
+## 🛠️ Tech Stack
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+<div align="left">
+  
+  ### **Machine Learning & AI**
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
+  <img src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=souradeep2233&show_icons=true&locale=en&layout=compact" alt="souradeep2233" /></p>
+<img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" style="border-radius: 20px; margin-left: 20px;" />
+  
+  ### **Cloud & Databases**
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+  <img src="https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  
+  ### **Programming Languages**
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" />
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" />
+  
+</div>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=souradeep2233&show_icons=true&locale=en" alt="souradeep2233" /></p>
+<!-- Connect Section with Hover Effects -->
+## 🌍 Connect With Me
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=souradeep2233&" alt="souradeep2233" /></p>
+<div align="center">
+  <a href="https://linkedin.com/in/souradeep-dutta-6535a21bb" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://kaggle.com/souradeep2233" target="_blank">
+    <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle" />
+  </a>
+  <a href="https://leetcode.com/souradeep2233" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
+  </a>
+  <a href="https://www.instagram.com/souradeep2233/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+  <a href="mailto:souradeep2233@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+</div>
+
+<!-- GitHub Stats with Custom Cards -->
+## 📈 GitHub Analytics
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=souradeep2233&show_icons=true&theme=radical&include_all_commits=true&count_private=true&border_radius=20&bg_color=30,0d0d0d,1a1a2e&title_color=7a3ce7&text_color=fff&icon_color=7a3ce7" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=souradeep2233&layout=compact&theme=radical&border_radius=20&bg_color=30,1a1a2e,0d0d0d&title_color=7a3ce7&text_color=fff&icon_color=7a3ce7" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=souradeep2233&theme=radical&background=0d0d0d&border_radius=20&date_format=M%20j%5B%2C%20Y%5D&ring=7a3ce7&fire=7a3ce7&currStreakNum=fff&sideNums=fff&currStreakLabel=7a3ce7" />
+</div>
+
+<!-- Footer -->
+<br/>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=7a3ce7&height=80&section=footer&fontSize=30" />
+</div>
