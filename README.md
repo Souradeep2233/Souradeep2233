@@ -20,7 +20,7 @@
   
 
   ### 🔥 Current Focus
-  - Mastering **Scene Graph**,**Few Shot Learning**,**Advanced Deep Learning** (Transformers, Diffusion, GANs)
+  - Mastering **Scene Graph**,**Few Shot Learning** & **Advanced Deep Learning** (Transformers, Diffusion, GANs).
   - Exploring **Zero Shot Learning**, **Meta Learning**
   - Preparing for **M.S / M.Tech admissions**
   
