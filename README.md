@@ -29,7 +29,7 @@
 
 - Portfolio: **[Explore Here](https://souradeep2233.github.io/)**
 
--   Resume: **[Souradeep_Dutta](https://drive.google.com/file/d/1S2RuzpNeEkKLII7WzpZBQV_O9STqj7sO/view?usp=sharing))**
+-   Resume: **[Souradeep_Dutta](https://drive.google.com/file/d/1S2RuzpNeEkKLII7WzpZBQV_O9STqj7sO/view?usp=sharing)**
 </div>
 
 <br/>
