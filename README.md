@@ -11,7 +11,7 @@
     <img src="https://images.squarespace-cdn.com/content/v1/5feb53185d3dab691b47361b/1609930650139-9NRI63XUJ29Y7E9LEA9G/12eca-machine-learning.gif" 
      alt="Header GIF" 
      height="200"
-     width="400" 
+     width="350" 
      align="right" 
      style="border-radius: 20px; box-shadow: 0 0 20px #7a3ce766;" />
 
