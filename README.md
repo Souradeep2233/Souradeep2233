@@ -1,13 +1,12 @@
 <!-- Gradient Animated Header -->
-<div align="center">
+<div align="left">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=4000&pause=1000&color=7A3CE7&center=true&vCenter=true&width=800&lines=Hi+%F0%9F%91%8B%2C+I'm+Souradeep+Dutta;Machine+Learning+%26+Computer+Vision+Engineer;From+India+%F0%9F%87%AE%F0%9F%87%B3" alt="Typing SVG" />
-</div>
+
 
 <!-- Animated Divider -->
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" alt="divider" width="100%"/>
 
 <!-- About Section with Glowing Effect -->
-<div align="center">
   <picture>
     <img src="https://images.squarespace-cdn.com/content/v1/5feb53185d3dab691b47361b/1609930650139-9NRI63XUJ29Y7E9LEA9G/12eca-machine-learning.gif" 
      alt="Header GIF" 
@@ -16,18 +15,19 @@
      style="border-radius: 20px; box-shadow: 0 0 20px #7a3ce766;" />
 
   </picture>
+  
 
   ### 🔥 Current Focus
-  - Building **Real-Time Violence Detection** using Swin3D Transformer
-  - Mastering **Advanced Deep Learning** (Transformers, CNNs, GANs)
-  - Exploring **Medical Imaging & AI Diagnostics**
+  - Mastering **Scene Graph**,**Few Shot Learning**,**Advanced Deep Learning** (Transformers, Diffusion, GANs)
+  - Exploring **Zero Shot Learning**, **Meta Learning**
+  - Preparing for **M.S / M.Tech admissions**
   
-  ### 📬 Get in Touch
+  ## 📬 Get in Touch
   - Email: **souradeep2233@gmail.com**
-  </div>
-  <div align="left">
-  - Portfolio: **[Coming Soon]**
-  - Resume: **[LinkedIn Profile](https://www.linkedin.com/in/souradeep-dutta-6535a21bb/)**
+
+- Portfolio: **[Explore Here](https://souradeep2233.github.io/)**
+
+-   Resume: **[LinkedIn Profile](https://www.linkedin.com/in/souradeep-dutta-6535a21bb/)**
 </div>
 
 <br/>
@@ -61,21 +61,18 @@
 <!-- Connect Section with Hover Effects -->
 ## 🌍 Connect With Me
 
-<div align="center">
+<div align="left">
   <a href="https://linkedin.com/in/souradeep-dutta-6535a21bb" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://kaggle.com/souradeep2233" target="_blank">
+  <a href="https://www.kaggle.com/rick102003" target="_blank">
     <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle" />
   </a>
   <a href="https://leetcode.com/souradeep2233" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
   </a>
-  <a href="https://www.instagram.com/souradeep2233/" target="_blank">
+  <a href="https://www.instagram.com/souradeep_10_03?igsh=MmlucjlnY2Y5NjJt" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-  </a>
-  <a href="mailto:souradeep2233@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
 </div>
 
