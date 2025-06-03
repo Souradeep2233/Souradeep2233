@@ -100,6 +100,4 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=7a3ce7&height=80&section=footer&fontSize=30" />
 </div>
-<div align="center">
-  ![](https://komarev.com/ghpvc/?username=your-github-Souradeep2233&color=green)
-</div>
+
