@@ -94,6 +94,12 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=souradeep2233&theme=radical&background=0d0d0d&border_radius=20&date_format=M%20j%5B%2C%20Y%5D&ring=7a3ce7&fire=7a3ce7&currStreakNum=fff&sideNums=fff&currStreakLabel=7a3ce7" />
 </div>
 
+<!-- Profile View Counter -->
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=souradeep2233&label=Profile%20views&color=7a3ce7&style=flat-square" alt="Profile Views" />
+</div>
+
+
 <!-- Footer -->
 <br/>
 
