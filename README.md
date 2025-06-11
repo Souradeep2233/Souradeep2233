@@ -22,7 +22,7 @@
   ### 🔥 Current Focus
   - Mastering **Scene Graph**,**Few Shot Learning** & **Advanced Deep Learning** (Transformers, Diffusion, GANs).
   - Exploring **Zero Shot Learning**, **Meta Learning**
-  - Preparing for **M.S / M.Tech admissions**
+  - Upcoming MS student at IIT Bombay
   
   ## 📬 Get in Touch
   - Email: **souradeep2233@gmail.com**
