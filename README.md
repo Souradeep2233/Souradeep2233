@@ -86,12 +86,13 @@
 ## 📈 GitHub Analytics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=souradeep2233&show_icons=true&theme=radical&include_all_commits=true&count_private=true&border_radius=20&bg_color=30,0d0d0d,1a1a2e&title_color=7a3ce7&text_color=fff&icon_color=7a3ce7" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=souradeep2233&layout=compact&theme=radical&border_radius=20&bg_color=30,1a1a2e,0d0d0d&title_color=7a3ce7&text_color=fff&icon_color=7a3ce7" />
+  <img height="180em" src="https://readme-stats-fast.vercel.app/api?username=souradeep2233&show_icons=true&theme=radical&include_all_commits=true&count_private=true&border_radius=20" />
+  
+  <img height="180em" src="https://readme-stats-fast.vercel.app/api/top-langs/?username=souradeep2233&layout=compact&theme=radical&border_radius=20" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=souradeep2233&theme=radical&background=0d0d0d&border_radius=20&date_format=M%20j%5B%2C%20Y%5D&ring=7a3ce7&fire=7a3ce7&currStreakNum=fff&sideNums=fff&currStreakLabel=7a3ce7" />
+  <img src="https://streak-stats.demolab.com/?user=souradeep2233&theme=radical&border_radius=20" />
 </div>
 
 <!-- Profile View Counter -->
