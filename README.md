@@ -20,7 +20,7 @@
   
 
   ### 🔥 Current Focus
-  - Mastering **Test Time Adaptation **,**Domain Adaptation**,**Few Shot Learning** & **Advanced Deep Learning** (Transformers, Diffusion, GANs).
+  - Mastering **Test Time Adaptation**,**Domain Adaptation**,**Few Shot Learning** & **Advanced Deep Learning** (Transformers, Diffusion, GANs).
   - Exploring **Zero Shot Learning**, **Meta Learning**
   - MS(R) student at IIT Bombay, Mumbai
   
